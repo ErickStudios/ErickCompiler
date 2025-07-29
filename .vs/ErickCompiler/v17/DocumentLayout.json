@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\Makelima\\",
+  "WorkspaceRootPath": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\ErickCompiler.csproj|c:\\users\\erick\\source\\repos\\makelima\\makelima\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\ErickCompiler.csproj|solutionrelative:makelima\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\Makelima.csproj|c:\\users\\erick\\source\\repos\\makelima\\makelima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\Makelima.csproj|solutionrelative:makelima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\erickassambler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\erickassambler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\Makelima.csproj|c:\\users\\erick\\source\\repos\\makelima\\makelima\\limacompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\Makelima.csproj|solutionrelative:makelima\\limacompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\Makelima.csproj|c:\\users\\erick\\source\\repos\\makelima\\makelima\\erickassambler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|Makelima\\Makelima.csproj|solutionrelative:makelima\\erickassambler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\limacompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\limacompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ErickCompiler.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\ErickCompiler.cs",
-              "RelativeDocumentMoniker": "Makelima\\ErickCompiler.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\ErickCompiler.cs",
-              "RelativeToolTip": "Makelima\\ErickCompiler.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwDAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:39:59.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LimaCompiler.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\LimaCompiler.cs",
-              "RelativeDocumentMoniker": "Makelima\\LimaCompiler.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\LimaCompiler.cs",
-              "RelativeToolTip": "Makelima\\LimaCompiler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\Program.cs",
+              "RelativeDocumentMoniker": "ErickCompiler\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\Program.cs",
+              "RelativeToolTip": "ErickCompiler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:39:35.594Z",
+              "WhenOpened": "2025-07-29T00:37:59.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ErickAssambler.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\ErickAssambler.cs",
-              "RelativeDocumentMoniker": "Makelima\\ErickAssambler.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\ErickAssambler.cs",
-              "RelativeToolTip": "Makelima\\ErickAssambler.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAIwDABAAAuAAAAAAAAAA==",
+              "Title": "LimaCompiler.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\LimaCompiler.cs",
+              "RelativeDocumentMoniker": "ErickCompiler\\LimaCompiler.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\LimaCompiler.cs",
+              "RelativeToolTip": "ErickCompiler\\LimaCompiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:37:20.682Z",
+              "WhenOpened": "2025-07-29T00:37:58.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErickCompiler.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickCompiler.cs",
+              "RelativeDocumentMoniker": "ErickCompiler\\ErickCompiler.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickCompiler.cs",
+              "RelativeToolTip": "ErickCompiler\\ErickCompiler.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAwOkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:37:57.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\Program.cs",
-              "RelativeDocumentMoniker": "Makelima\\Program.cs",
-              "ToolTip": "C:\\Users\\erick\\source\\repos\\Makelima\\Makelima\\Program.cs",
-              "RelativeToolTip": "Makelima\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "ErickAssambler.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickAssambler.cs",
+              "RelativeDocumentMoniker": "ErickCompiler\\ErickAssambler.cs",
+              "ToolTip": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickAssambler.cs",
+              "RelativeToolTip": "ErickCompiler\\ErickAssambler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T20:36:54.48Z",
+              "WhenOpened": "2025-07-29T00:37:56.857Z",
               "EditorCaption": ""
             }
           ]

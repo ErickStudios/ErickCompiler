@@ -1,0 +1,29 @@
+C:\Users\erick\source\repos\Makelima\Makelima\bin\Debug\net8.0\ErickCompiler.exe
+C:\Users\erick\source\repos\Makelima\Makelima\bin\Debug\net8.0\ErickCompiler.deps.json
+C:\Users\erick\source\repos\Makelima\Makelima\bin\Debug\net8.0\ErickCompiler.runtimeconfig.json
+C:\Users\erick\source\repos\Makelima\Makelima\bin\Debug\net8.0\ErickCompiler.dll
+C:\Users\erick\source\repos\Makelima\Makelima\bin\Debug\net8.0\ErickCompiler.pdb
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.AssemblyInfo.cs
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.dll
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\refint\ErickCompiler.dll
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.pdb
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ErickCompiler.genruntimeconfig.cache
+C:\Users\erick\source\repos\Makelima\Makelima\obj\Debug\net8.0\ref\ErickCompiler.dll
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\bin\Debug\net8.0\ErickCompiler.exe
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\bin\Debug\net8.0\ErickCompiler.deps.json
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\bin\Debug\net8.0\ErickCompiler.runtimeconfig.json
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\bin\Debug\net8.0\ErickCompiler.dll
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\bin\Debug\net8.0\ErickCompiler.pdb
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.AssemblyInfo.cs
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.sourcelink.json
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.dll
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\refint\ErickCompiler.dll
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.pdb
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ErickCompiler.genruntimeconfig.cache
+C:\Users\erick\OneDrive\ErickCraftStudiosMgrChannel\Saved Proyects\ErickCompiler\ErickCompiler\ErickCompiler\obj\Debug\net8.0\ref\ErickCompiler.dll
