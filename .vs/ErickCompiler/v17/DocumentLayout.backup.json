@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\erickassambler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\erickassambler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|solutionrelative:erickcompiler\\erickcompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD66182D-F95D-4C9B-9347-9A7AE542FC01}|ErickCompiler\\ErickCompiler.csproj|c:\\users\\erick\\onedrive\\erickcraftstudiosmgrchannel\\saved proyects\\erickcompiler\\erickcompiler\\erickcompiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ErickCompiler\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T00:37:59.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T00:37:59.481Z"
             },
             {
               "$type": "Document",
@@ -59,31 +58,30 @@
               "RelativeToolTip": "ErickCompiler\\LimaCompiler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T00:37:58.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T00:37:58.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ErickCompiler.cs",
               "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickCompiler.cs",
               "RelativeDocumentMoniker": "ErickCompiler\\ErickCompiler.cs",
               "ToolTip": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickCompiler.cs",
               "RelativeToolTip": "ErickCompiler\\ErickCompiler.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAAwOkAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAOkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T00:37:57.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ErickAssambler.cs",
               "DocumentMoniker": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickAssambler.cs",
               "RelativeDocumentMoniker": "ErickCompiler\\ErickAssambler.cs",
               "ToolTip": "C:\\Users\\erick\\OneDrive\\ErickCraftStudiosMgrChannel\\Saved Proyects\\ErickCompiler\\ErickCompiler\\ErickCompiler\\ErickAssambler.cs",
               "RelativeToolTip": "ErickCompiler\\ErickAssambler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T00:37:56.857Z",
               "EditorCaption": ""

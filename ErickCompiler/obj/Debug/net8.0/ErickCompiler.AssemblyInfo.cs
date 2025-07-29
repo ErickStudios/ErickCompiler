@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ErickCompiler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2423c0bd8c3f573638700b3e9c8e7025968eeb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1425b7afb636a468ef911ed725cf0c425761afad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ErickCompiler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ErickCompiler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
